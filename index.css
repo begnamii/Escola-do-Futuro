@@ -16,19 +16,20 @@ header {
     padding: 10px;
     border: 5px solid #065F46;
     border-radius: 20px;
+    margin-bottom: 18px;
 }
 
 #imagem-logo {
   display: block;
   margin: 10px auto;
-  width: 15%;
-  margin-bottom: -10px;
+  width: 19%;
+  margin-bottom: 0px;
   margin-top: -5px;
 }
 
 nav a{
   display: inline-block;
-  background-color: #059669;
+  background-color: #065F46;
   color: #F0FDF4;
   padding: 12px 20px;
   border-radius: 10px;
@@ -41,22 +42,22 @@ nav{
 }
 
 main {
-    background-color: #059669;
+    background-color: #34D399;
     text-align: center;
     padding: 10px;
     border-radius: 10px;
-    border: 4px solid #059669;
+    border: 4px solid #065F46;
     width: 900px;
     color: #F0FDF4;
     margin: 0px auto;
 }
 
 .apresentacao {
-    background-color: #34D399;
+    background-color: #065F46;
     text-align: center;
     padding: 10px;
     border-radius: 10px;
-    border: 4px solid #34D399;
+    border: 4px solid #065F46;
     width: 800px;
     color: #F0FDF4;
     margin: 0px auto;
@@ -71,7 +72,7 @@ img {
 
 #btn-prox {
   background-color: #065F46;
-  color: #34D399;
+  color: #F0FDF4;
   padding: 12px 20px;
   border-radius: 10px;
   display: block;
@@ -83,11 +84,11 @@ img {
 }
 
 .sobre {
-    background-color: #34D399;
+    background-color: #065F46;
     text-align: center;
     padding: 10px;
     border-radius: 10px;
-    border: 4px solid #34D399;
+    border: 4px solid #065F46;
     width: 800px;
     color: #F0FDF4;
     margin: 0px auto;
@@ -99,12 +100,31 @@ img {
 }
 
 #separacao {
-    background-color: #064E3B;
+    background-color: #059669;
     text-align: center;
     padding: 10px;
     border-radius: 10px;
-    border: 4px solid #064E3B;
+    border: 4px solid #059669;
     width: 850px;
     margin: 0px auto;
     margin-bottom: 25px;
+}
+
+#bi {
+  width: 900px;
+}
+
+#esquerda {
+  text-align: left;
+  margin-left: 270px;
+}
+
+#margemcima {
+  margin-top: 25px;
+}
+
+#esquerda2 {
+  width: 300px;
+  text-align: left;
+  margin: auto;
 }
